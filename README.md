@@ -6,6 +6,14 @@ Saya seorang pelajar yang antusias mempelajari dunia teknologi, pemrograman, dan
 
 ---
 
+### 📚 Sedang Dipelajari
+
+- **Mobile Development**: Mempelajari React Native dan Flutter untuk pengembangan aplikasi mobile.
+- **Web Development**: Mendalami Next.js untuk frontend dan Laravel untuk backend dalam pengembangan web.
+- **Pemrograman Dasar**: Memperdalam pemahaman tentang algoritma dan struktur data.
+- **Git & GitHub**: Mempelajari manajemen proyek dan kolaborasi menggunakan Git dan GitHub.
+---
+
 ### 🛠️ Bahasa dan Tools yang Saya Pelajari
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,14 +37,7 @@ Saya seorang pelajar yang antusias mempelajari dunia teknologi, pemrograman, dan
 
 ---
 
-### 📚 Sedang Dipelajari
 
-- **Mobile Development**: Mempelajari React Native dan Flutter untuk pengembangan aplikasi mobile.
-- **Web Development**: Mendalami Next.js untuk frontend dan Laravel untuk backend dalam pengembangan web.
-- **Pemrograman Dasar**: Memperdalam pemahaman tentang algoritma dan struktur data.
-- **Git & GitHub**: Mempelajari manajemen proyek dan kolaborasi menggunakan Git dan GitHub.
-
----
 
 ### 🌱 Tujuan
 

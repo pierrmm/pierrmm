@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Pierre! 
 
-**(Pelajar | Tech Enthusiast | Future Developer)**
+**`(Pelajar | Tech Enthusiast | Future Developer)`**
 
 Saya seorang pelajar yang antusias mempelajari dunia teknologi, pemrograman, dan pengembangan perangkat lunak. Saya selalu mencari kesempatan untuk belajar hal-hal baru dan mengasah keterampilan saya dalam coding. Saat ini, saya fokus pada pengembangan diri dan eksplorasi berbagai teknologi terkini.
 
@@ -59,6 +59,15 @@ Jika Anda ingin berkolaborasi atau sekadar menyapa, jangan ragu untuk menghubung
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrmm&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pierrmm&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+---
+
+### 🌟 Statistik Tambahan
+
+![Profile Views](https://komarev.com/ghpvc/?username=pierrmm&color=blueviolet&style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/pierrmm?color=blueviolet&style=flat-square)
+![Total Commits](https://img.shields.io/github/commit-activity/m/pierrmm?color=blueviolet&style=flat-square)
+![Total Pull Requests](https://img.shields.io/github/issues-pr-closed/pierrmm?color=blueviolet&style=flat-square)
 
 ---
 

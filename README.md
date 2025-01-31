@@ -54,9 +54,11 @@ Jika Anda ingin berkolaborasi atau sekadar menyapa, jangan ragu untuk menghubung
 
 ### 📊 Statistik GitHub
 
-![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrmm&show_icons=true&theme=radical)
+![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrmm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrmm&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrmm&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pierrmm&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Pierre! 
 
-**`(Pelajar | Tech Enthusiast | Future Developer)`**
+**(Pelajar | Tech Enthusiast | Future Developer)**
 
 Saya seorang pelajar yang antusias mempelajari dunia teknologi, pemrograman, dan pengembangan perangkat lunak. Saya selalu mencari kesempatan untuk belajar hal-hal baru dan mengasah keterampilan saya dalam coding. Saat ini, saya fokus pada pengembangan diri dan eksplorasi berbagai teknologi terkini.
 

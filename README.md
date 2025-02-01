@@ -68,9 +68,9 @@ Jika Anda ingin berkolaborasi atau sekadar menyapa, jangan ragu untuk menghubung
 ### 🌟 Statistik Tambahan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pierrmm&color=blueviolet&style=flat-square)
-![Total Stars](https://img.shields.io/github/stars/pierrmm?color=blueviolet&style=flat-square)
-![Total Commits](https://img.shields.io/github/commit-activity/m/pierrmm?color=blueviolet&style=flat-square)
-![Total Pull Requests](https://img.shields.io/github/issues-pr-closed/pierrmm?color=blueviolet&style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/pierrmm?style=flat-square&color=blueviolet)
+![Total Commits](https://img.shields.io/github/commit-activity/y/pierrmm?style=flat-square&color=blueviolet&label=commits)
+![Total PRs](https://img.shields.io/github/issues-pr-closed/pierrmm?style=flat-square&color=blueviolet)
 
 ---
 

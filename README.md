@@ -55,14 +55,23 @@ Jika Anda ingin berkolaborasi atau sekadar menyapa, jangan ragu untuk menghubung
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierrmm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrmm&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117"/>
+</p>
 
-![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrmm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pierrmm&theme=radical&hide_border=true&background=0D1117"/>
+  <img width="49.5%" src="https://github-activity-graph.vercel.app/graph?username=pierrmm&theme=radical&hide_border=true&bg_color=0D1117&area=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrmm&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pierrmm&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pierrmm&label=Profile%20Views&color=ff69b4&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/pierrmm?style=flat-square&color=ff69b4&label=Total%20Stars"/>
+  <img src="https://img.shields.io/github/followers/pierrmm?style=flat-square&color=ff69b4&label=Followers"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/pierrmm?style=flat-square&color=ff69b4&label=PRs%20Merged"/>
+</p>
 ---
 
 ### 🌟 Statistik Tambahan

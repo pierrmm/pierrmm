@@ -34,6 +34,7 @@ Saya seorang pelajar yang antusias mempelajari dunia teknologi, pemrograman, dan
   
   ### Mobile Development
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
   ### Tools & Others
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

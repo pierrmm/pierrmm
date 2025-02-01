@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pierre&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Pierre!;+🚀+Tech+Enthusiast;+💻+Future+Developer;" />
